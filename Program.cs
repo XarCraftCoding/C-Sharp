@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace MyFirstProgram
+namespace CSharp
 {
-    class MyFirstProgram
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("I like pizza!");
+            Console.WriteLine("It's really good!");
+            Console.Beep();
         }
     }
 }
